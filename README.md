@@ -30,6 +30,8 @@ This is the backend of a scoial network api that keeps track of users, their tho
 
 Then, in the terminal, do 'npm start'. Then, open insomnia to look up the users, thoughts, and reactions.
 
+Video:
+
 ## Credits
 
 Email validation:
